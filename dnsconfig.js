@@ -1,5 +1,5 @@
 /** @type {ISubDomain[]} */
-var subDomains = []
+var subDomains = [test.is-an.app]
 
 var validate = new function () {
   /**
